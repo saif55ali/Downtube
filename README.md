@@ -1,8 +1,6 @@
-<!DOCTYPE html> 
-<html dir='ltr' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
 <head>    
-  <title>YouTube Downloader - Download Youtube videos for free!</title>    
-  <meta content='We offer the fastest way to save YouTube videos in mp3, mp4, or in other range of formats. ✅ It’s the most convenient YouTube video downloader you’ve ever tried!' name='Description'/>    
+<title>YouTube Downloader - Download Youtube videos for free!</title>    
+<meta content='We offer the fastest way to save YouTube videos in mp3, mp4, or in other range of formats. ✅ It’s the most convenient YouTube video downloader you’ve ever tried!' name='Description'/>    
   <meta content='index, follow' name='robots'/>    
   <meta content='2 days' name='revisit-after'/>    
   <meta content='English' name='language'/>    
@@ -12,8 +10,8 @@
   <meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>    
   <meta content='true' name='MSSmartTagsPreventParsing'/>    
   <meta content='general' name='rating'/>    
-  <link href='https://techly360.com/create-youtube-video-downloader-tool-in-blogger/' rel='canonical'/>    
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">    
+<link href='https://techly360.com/create-youtube-video-downloader-tool-in-blogger/' rel='canonical'/>    
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">    
   <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>    
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>    
   <style id='page-skin-1' type='text/css'><!--    
