@@ -173,18 +173,6 @@
 <a href="https://www.eonads.com" class="ex2" target="_blank">Ads by Eonads</a>
 <ins class="e300x250" id="300x250" data-revive-zoneid="20129" data-revive-id="f87497be83f6ed6b52c3b340d803ae0d"></ins>
 <script async src="//network.eonads.com/adserver/www/delivery/asyncjs.php"></script><!-- ads by Eonads -->
-   <!-- ads by Eonads -->  
-<a href="https://www.eonads.com" class="ex2" target="_blank">Ads by Eonads</a>
-<ins class="e300x250" id="300x250" data-revive-zoneid="20129" data-revive-id="f87497be83f6ed6b52c3b340d803ae0d"></ins>
-<script async src="//network.eonads.com/adserver/www/delivery/asyncjs.php"></script><!-- ads by Eonads -->
-<!-- ads by Eonads -->  
-<a href="https://www.eonads.com" class="ex2" target="_blank">Ads by Eonads</a>
-<ins class="e300x250" id="300x250" data-revive-zoneid="20129" data-revive-id="f87497be83f6ed6b52c3b340d803ae0d"></ins>
-<script async src="//network.eonads.com/adserver/www/delivery/asyncjs.php"></script><!-- ads by Eonads -->
- <!-- ads by Eonads -->  
-<a href="https://www.eonads.com" class="ex2" target="_blank">Ads by Eonads</a>
-<ins class="e300x250" id="300x250" data-revive-zoneid="20129" data-revive-id="f87497be83f6ed6b52c3b340d803ae0d"></ins>
-<script async src="//network.eonads.com/adserver/www/delivery/asyncjs.php"></script><!-- ads by Eonads -->
   </div>    
   <div id='hidden_div' style='display:none'>    
   <div id='thumbnails'>    
