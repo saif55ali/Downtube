@@ -151,7 +151,7 @@
    color: #c2c2c2;    
   }    
   -->    
-  .adsbox{padding:2em;box-shadow:0 5px 15px rgba(0,0,0,.16);border-radius:5px;margin-top:1em;background:#fff;text-align:left}    
+  .adsbox{padding:2em;box-shadow:0 5px 15px rgba(0,0,0,.16);border-radius:5px;margin-top:1em;background:#fff;text-align:right}    
   </style>    
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript"></script>    
   </head>    
