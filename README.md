@@ -175,11 +175,3 @@
   <div class='footer-copy'>    
   <p>© Design by Techly360.com <script>document.write(new Date().getFullYear())</script>    
   <span>• </span>    
-  </br>    
-  </br>    
-  </div>    
-  </div>    
-  </div>    
-  </footer>    
-  </body>    
-  </html>   
