@@ -172,5 +172,5 @@
   <footer style="margin-top:30px; margin-bottom:20px;">    
   <div class='container text-center'>    
   <div class='footer-copy'>    
-  <p>© Design by Techly360.com <script>document.write(new Date().getFullYear())</script>    
+  <p>© Design by mydowntube.xyz<script>document.write(new Date().getFullYear())</script>    
   <span>• </span>    
