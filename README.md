@@ -161,7 +161,18 @@
   <p>YouTube Video Downloader automatically take "High Quality" Video File from YouTube URL. Paste Your YouTube Video URL (<span>https://www.youWhich you want to downloadtube.com/watch?v=zru82DBCIEw&t=237s</span>) in the below box and Click on "Download" button. Within Second it will generate your YouTube Video Download Button.</p>
   <iframe src="https://mp3downy.com/mp3-converter?apikey=89eb7d92-3622-45d7-86a0-15adb53d61f1&color=17a2b8&bg=ffffff" style="width:100%;min-height:250px;height:auto;" ></iframe>   
   <div class="adsbox container">    
-   Place Ad Code 2     
+   <!-- ads by Eonads -->  
+<a href="https://www.eonads.com" class="ex2" target="_blank">Ads by Eonads</a>
+<ins class="e300x250" id="300x250" data-revive-zoneid="20129" data-revive-id="f87497be83f6ed6b52c3b340d803ae0d"></ins>
+<script async src="//network.eonads.com/adserver/www/delivery/asyncjs.php"></script><!-- ads by Eonads -->
+ <!-- ads by Eonads -->  
+<a href="https://www.eonads.com" class="ex2" target="_blank">Ads by Eonads</a>
+<ins class="e300x250" id="300x250" data-revive-zoneid="20129" data-revive-id="f87497be83f6ed6b52c3b340d803ae0d"></ins>
+<script async src="//network.eonads.com/adserver/www/delivery/asyncjs.php"></script><!-- ads by Eonads -->
+ <!-- ads by Eonads -->  
+<a href="https://www.eonads.com" class="ex2" target="_blank">Ads by Eonads</a>
+<ins class="e300x250" id="300x250" data-revive-zoneid="20129" data-revive-id="f87497be83f6ed6b52c3b340d803ae0d"></ins>
+<script async src="//network.eonads.com/adserver/www/delivery/asyncjs.php"></script><!-- ads by Eonads -->
     </div>    
   <div id='hidden_div' style='display:none'>    
   <div id='thumbnails'>    
