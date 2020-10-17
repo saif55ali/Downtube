@@ -1,4 +1,3 @@
-<!DOCTYPE html>    
   <html dir='ltr' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>    
   <head>    
   <title>YouTube Downloader - Download Youtube videos for free!</title>    
@@ -159,7 +158,7 @@
   </head>    
   <body class=" text-center">    
   <div id='hd'>    
-  <img alt='youtube thumbnail generator' src='https://1.bp.blogspot.com/-6iQK-ugxaMA/XzlEKT2IKCI/AAAAAAAAB8w/ch-bNMemZroo07x-raUTXatJH2jQZh1hACLcBGAsYHQ/s1600/aaaaaaa.png' title='High Quality YouTube Video Downloader'/>    
+  <img alt='#' src='#' title='High Quality YouTube Video Downloader'/>    
   <h1>High Quality YouTube Video Downloader</h1>    
   <p>YouTube Video Downloader automatically take "High Quality" Video File from YouTube URL. Paste Your YouTube Video URL (<span>https://www.youtube.com/watch?v=zru82DBCIEw&t=237s</span>) in the below box and Click on "Download" button. Within Second it will generate your YouTube Video Download Button.</p>    
   </div>    
