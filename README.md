@@ -1,4 +1,4 @@
-  <html dir='ltr' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>    
+  <html dir='ltr' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>  
   <head>    
   <title>YouTube Downloader - Download Youtube videos for free!</title>    
   <meta content='We offer the fastest way to save YouTube videos in mp3, mp4, or in other range of formats. ✅ It’s the most convenient YouTube video downloader you’ve ever tried!' name='Description'/>    
@@ -157,8 +157,7 @@
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript"></script>    
   </head>    
   <body class=" text-center">    
-  <div id='hd'>    
-  <img alt='#' src='#' title='High Quality YouTube Video Downloader'/>    
+  <div id='hd'> 
   <h1>High Quality YouTube Video Downloader</h1>    
   <p>YouTube Video Downloader automatically take "High Quality" Video File from YouTube URL. Paste Your YouTube Video URL (<span>https://www.youtube.com/watch?v=zru82DBCIEw&t=237s</span>) in the below box and Click on "Download" button. Within Second it will generate your YouTube Video Download Button.</p>    
   </div>    
