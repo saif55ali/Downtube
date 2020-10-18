@@ -1,4 +1,3 @@
- <!DOCTYPE html>  
  <html dir='ltr' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.bing.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.bing.com/2005/gml/expr'>  
 <head>
 <meta name="msvalidate.01" content="2EF36AC0FD0A42543CDDC5A3048EBB23" />
