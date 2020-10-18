@@ -3,6 +3,7 @@
 <head>    
 <title>Download YouTube Videos - Free Youtube Video Downloader</title>    
 <meta content='We offer the fastest way to save YouTube videos in mp3, mp4, or in other range of formats. ✅ It’s the most convenient YouTube video downloader you’ve ever tried!' name='Description'/>    
+  <meta name="msvalidate.01" content="2EF36AC0FD0A42543CDDC5A3048EBB23" />
   <meta content='index, follow' name='robots'/>    
   <meta content='2 days' name='revisit-after'/>    
   <meta content='English' name='language'/>    
