@@ -1,12 +1,8 @@
- <html dir='ltr' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
-  <?xml version="1.0" ?> 
-- <users>
-  <user>2EF36AC0FD0A42543CDDC5A3048EBB23</user> 
-  </users>
-<head>
-<title>Download YouTube Videos - Free Youtube Video Downloader</title>    
-<meta content='We offer the fastest way to save YouTube videos in mp3, mp4, or in other range of formats. ✅ It’s the most convenient YouTube video downloader you’ve ever tried!' name='Description'/>
-<meta name="msvalidate.01" content="2EF36AC0FD0A42543CDDC5A3048EBB23" />
+<!DOCTYPE html>    
+  <html dir='ltr' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>    
+  <head>    
+  <title>Download YouTube Videos - Free Youtube Video Downloader</title>    
+  <meta content='We offer the fastest way to save YouTube videos in mp3, mp4, or in other range of formats. ? It’s the most convenient YouTube video downloader you’ve ever tried!' name='Description'/>    
   <meta content='index, follow' name='robots'/>    
   <meta content='2 days' name='revisit-after'/>    
   <meta content='English' name='language'/>    
@@ -16,8 +12,8 @@
   <meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>    
   <meta content='true' name='MSSmartTagsPreventParsing'/>    
   <meta content='general' name='rating'/>    
-<link href='https://techly360.com/create-youtube-video-downloader-tool-in-blogger/' rel='canonical'/>    
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">    
+  <link href='https://techly360.com/create-youtube-video-downloader-tool-in-blogger/' rel='canonical'/>    
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">    
   <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>    
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>    
   <style id='page-skin-1' type='text/css'><!--    
@@ -162,24 +158,15 @@
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript"></script>    
   </head>    
   <body class=" text-center">    
-  <div id='hd'> 
-  <h1>Download YouTube Videos In High Quality</h1>    
-  <p>YouTube Video Downloader automatically take "High Quality" Video File from YouTube URL. Paste Your YouTube Video URL (<span>Which you want to download</span>) in the below box and Click on "Download" button. Within Second it will generate your YouTube Video Download Button.</p>
+  <div id='hd'>    
+  <ifram src="https://1.bp.blogspot.com/-3JlJztsISxg/X4xSnAQ-m_I/AAAAAAAACZU/oQFHsDeRgpMbB-0D1wlUEw-a3J6ThVdUQCLcBGAsYHQ/s640/youtube-video-downloader%2B%25282%2529.png" style="display: block; padding: 1em 0px; text-align: center;"><img alt="" border="0" data-original-height="320" data-original-width="640" src="https://1.bp.blogspot.com/-3JlJztsISxg/X4xSnAQ-m_I/AAAAAAAACZU/oQFHsDeRgpMbB-0D1wlUEw-a3J6ThVdUQCLcBGAsYHQ/s200/youtube-video-downloader%2B%25282%2529.png" width="200" /></iframe>   
+  <h1>Download YouTube Videos Online In High Quality</h1>    
+  <p>YouTube Video Downloader automatically take "High Quality" Video File from YouTube URL. Paste Your YouTube Video URL (<span>Which you want to download</span>) in the below box and Click on "Blue Download" button. Within Second it will generate your YouTube Video Download Button.</p>    
+</br>    
   <iframe src="https://mp3downy.com/mp3-converter?apikey=89eb7d92-3622-45d7-86a0-15adb53d61f1&color=17a2b8&bg=ffffff" style="width:100%;min-height:250px;height:auto;" ></iframe>   
   <div class="adsbox container">    
-  <!-- ads by Eonads -->  
-<a href="https://www.eonads.com" class="ex2" target="_blank">Ads by Eonads</a>
-<ins class="e300x250" id="300x250" data-revive-zoneid="20129" data-revive-id="f87497be83f6ed6b52c3b340d803ae0d"></ins>
-<script async src="//network.eonads.com/adserver/www/delivery/asyncjs.php"></script><!-- ads by Eonads -->
-  <!-- ads by Eonads -->  
-<a href="https://www.eonads.com" class="ex2" target="_blank">Ads by Eonads</a>
-<ins class="e300x250" id="300x250" data-revive-zoneid="20129" data-revive-id="f87497be83f6ed6b52c3b340d803ae0d"></ins>
-<script async src="//network.eonads.com/adserver/www/delivery/asyncjs.php"></script><!-- ads by Eonads -->
-   <!-- ads by Eonads -->  
-<a href="https://www.eonads.com" class="ex2" target="_blank">Ads by Eonads</a>
-<ins class="e300x250" id="300x250" data-revive-zoneid="20129" data-revive-id="f87497be83f6ed6b52c3b340d803ae0d"></ins>
-<script async src="//network.eonads.com/adserver/www/delivery/asyncjs.php"></script><!-- ads by Eonads -->
-  </div>    
+   Place Ad Code 2     
+    </div>    
   <div id='hidden_div' style='display:none'>    
   <div id='thumbnails'>    
   </div>    
@@ -189,5 +176,13 @@
   <footer style="margin-top:30px; margin-bottom:20px;">    
   <div class='container text-center'>    
   <div class='footer-copy'>    
-  <p>© Design by mydowntube.xyz <script>document.write(new Date().getFullYear())</script>    
+  <p>© Design by youtubevideodownloader.xyz <script>document.write(new Date().getFullYear())</script>    
   <span>• </span>    
+  </br>    
+  </br>    
+  </div>    
+  </div>    
+  </div>    
+  </footer>    
+  </body>    
+  </html>   
