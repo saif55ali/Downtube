@@ -2,7 +2,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1"/>
-<title>Happy Diwali 2019 Script</title>
+<title>Happy Diwali 2020 Script</title>
     <meta name="google" value="notranslate">
     <meta property="og:type" content="Make your own wonderful wish for you loved one" />
     <meta property="og:title" content="Happy Diwali 2019 Script" />
@@ -84,8 +84,8 @@ border-radius: 15px;
   77.7% {    transform: skewX(0.390625deg) skewY(0.390625deg);  }
   88.8% {    transform: skewX(-0.1953125deg) skewY(-0.1953125deg);  }}
 
-    .technovedant1{position:fixed;left:1%; width:auto;height:100%;top:1%;color:#000;}
-    .technovedant2{position:fixed;right:1%; width:auto;height:100%;top:1%;color:#000;}
+    .hindiuser1{position:fixed;left:1%; width:auto;height:100%;top:1%;color:#000;}
+    .hindiuser2{position:fixed;right:1%; width:auto;height:100%;top:1%;color:#000;}
 .bubbles {
 font-family: arial;
 }
@@ -209,14 +209,14 @@ body {font-family: Verdana, sans-serif;}
 .mySlides {display: none;}
 img {vertical-align: middle;}
 
-/* TECHNOVEDANT.in */
-.TECHNOVEDANT-slideshow-container {
+/* hindiuser.in */
+.hindiuser-slideshow-container {
   max-width: 1000px;
   position: relative;
   margin: auto;
 }
 
-/* TECHNOVEDANT.In */
+/* hindiuser.In */
 .text {
   color: #f2f2f2;
   font-size: 15px;
@@ -280,7 +280,7 @@ img {vertical-align: middle;}
 
    <style>
       body{
-        background: #F0E68C;
+        background: #000000;
       }
       .mainContainer {
 max-width: 400px;
@@ -295,7 +295,7 @@ max-width: 400px;
 }
 
 
-.Technovedantncontainer {
+.hindiuserncontainer {
    
     padding-right: 30px;
     padding-left: 30px;
@@ -393,7 +393,7 @@ max-width: 400px;
 
 
 
-.TechnoVedant-main-greeting {
+.hindiuser-main-greeting {
    
     max-width: 400px;
     margin: auto;
@@ -401,7 +401,7 @@ max-width: 400px;
     position: relative;
     padding: 0px;
     background:#000;
-    background: url("https://1.bp.blogspot.com/-PvcQ95Dbfok/XY4OYrSZ5SI/AAAAAAAADE4/G2RAYn0HnMEr9M3FnteIlbbLYcrENPZQgCLcBGAsYHQ/s320/glitters.gif");
+    background: url("https://1.bp.blogspot.com/-pzjUYiF_mFA/XZjV9DbS_YI/AAAAAAAAA2A/HalWmR-QN48-FMuVMq5cdh4aQSMz9hX-wCLcBGAsYHQ/s1600/hindiuser%2BDiwali.gif");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -409,28 +409,28 @@ max-width: 400px;
     margin-bottom: 35px
 }
 
-.TechnoVedant-main-greeting .main_body {
+.hindiuser-main-greeting .main_body {
     text-align: center;
     font-size: 1.3em
 }
-.TechnoVedant-main-greeting .main_body .text2 {
+.hindiuser-main-greeting .main_body .text2 {
     padding: 10px;
     font-size: 20px
 }
-.TechnoVedant-main-greeting .text {
+.hindiuser-main-greeting .text {
     color: #405d9b;
     letter-spacing: 1px;
     font-weight: 600;
     padding: 0px 10px;
     text-align: center;
 }
-.TechnoVedant-main-greeting .pp-img {
+.hindiuser-main-greeting .pp-img {
     max-width: 400px;
     margin-bottom: 10px;
     box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.64);
 }
 
-.TechnoVedant-main-greeting .text_gradient {
+.hindiuser-main-greeting .text_gradient {
     margin: 5px auto;
     font-weight: 700;
     font-size: 24px;
@@ -442,62 +442,60 @@ max-width: 400px;
     </style>
 
 
-	  <style>img[alt="Technovedant.com"]{display:none;}</style>
+	  <style>img[alt="hindiuser.com"]{display:none;}</style>
 
 
 </head>
  <body class="bg" style=" background-image : url('')";>
 
-<marquee class="technovedant1" behavior="scroll" direction="up" scrolldelay="5">  <br>
+<marquee class="hindiuser1" behavior="scroll" direction="up" scrolldelay="5">  <br>
 
 <img src="https://1.bp.blogspot.com/-mQiQ9cDDv9c/XY34JMBUrCI/AAAAAAAADC8/kHUl1VtqRgo1s-R62R7f3FmWeaTUubr-QCLcBGAsYHQ/s1600/diwali_lamp.png" height="129px" width="35px"/><br><br>
+<img src="https://1.bp.blogspot.com/-eDrsODUYeSc/XZjSX4ND27I/AAAAAAAAA10/JmehyAYZzHY_bwgcPqVn_qpNt8HJHP2fgCLcBGAsYHQ/s1600/a%2Bhindiuser.png" height="129px" width="35px"/><br><br>
 <img src="https://1.bp.blogspot.com/-x0zhqW8A7IQ/XY34sYHL8hI/AAAAAAAADDE/4S5E4cMfsTsXlYZxbqK4Svx_puYSXlzrgCLcBGAsYHQ/s1600/diwali_lamp2.png" height="129px" width="35px"/><br><br>
 <img src="https://1.bp.blogspot.com/-mQiQ9cDDv9c/XY34JMBUrCI/AAAAAAAADC8/kHUl1VtqRgo1s-R62R7f3FmWeaTUubr-QCLcBGAsYHQ/s1600/diwali_lamp.png" height="129px" width="35px"/><br><br>
+<img src="https://1.bp.blogspot.com/-eDrsODUYeSc/XZjSX4ND27I/AAAAAAAAA10/JmehyAYZzHY_bwgcPqVn_qpNt8HJHP2fgCLcBGAsYHQ/s1600/a%2Bhindiuser.png" height="129px" width="35px"/><br><br>
 <img src="https://1.bp.blogspot.com/-x0zhqW8A7IQ/XY34sYHL8hI/AAAAAAAADDE/4S5E4cMfsTsXlYZxbqK4Svx_puYSXlzrgCLcBGAsYHQ/s1600/diwali_lamp2.png" height="129px" width="35px"/><br><br>
 <img src="https://1.bp.blogspot.com/-mQiQ9cDDv9c/XY34JMBUrCI/AAAAAAAADC8/kHUl1VtqRgo1s-R62R7f3FmWeaTUubr-QCLcBGAsYHQ/s1600/diwali_lamp.png" height="129px" width="35px"/><br><br>
+<img src="https://1.bp.blogspot.com/-eDrsODUYeSc/XZjSX4ND27I/AAAAAAAAA10/JmehyAYZzHY_bwgcPqVn_qpNt8HJHP2fgCLcBGAsYHQ/s1600/a%2Bhindiuser.png" height="129px" width="35px"/><br><br>
 <img src="https://1.bp.blogspot.com/-x0zhqW8A7IQ/XY34sYHL8hI/AAAAAAAADDE/4S5E4cMfsTsXlYZxbqK4Svx_puYSXlzrgCLcBGAsYHQ/s1600/diwali_lamp2.png" height="129px" width="35px"/><br><br>
 <img src="https://1.bp.blogspot.com/-mQiQ9cDDv9c/XY34JMBUrCI/AAAAAAAADC8/kHUl1VtqRgo1s-R62R7f3FmWeaTUubr-QCLcBGAsYHQ/s1600/diwali_lamp.png" height="129px" width="35px"/><br><br>
+<img src="https://1.bp.blogspot.com/-eDrsODUYeSc/XZjSX4ND27I/AAAAAAAAA10/JmehyAYZzHY_bwgcPqVn_qpNt8HJHP2fgCLcBGAsYHQ/s1600/a%2Bhindiuser.png" height="129px" width="35px"/><br><br>
 <img src="https://1.bp.blogspot.com/-x0zhqW8A7IQ/XY34sYHL8hI/AAAAAAAADDE/4S5E4cMfsTsXlYZxbqK4Svx_puYSXlzrgCLcBGAsYHQ/s1600/diwali_lamp2.png" height="129px" width="35px"/><br><br>
 <img src="https://1.bp.blogspot.com/-mQiQ9cDDv9c/XY34JMBUrCI/AAAAAAAADC8/kHUl1VtqRgo1s-R62R7f3FmWeaTUubr-QCLcBGAsYHQ/s1600/diwali_lamp.png" height="129px" width="35px"/><br><br>
+<img src="https://1.bp.blogspot.com/-eDrsODUYeSc/XZjSX4ND27I/AAAAAAAAA10/JmehyAYZzHY_bwgcPqVn_qpNt8HJHP2fgCLcBGAsYHQ/s1600/a%2Bhindiuser.png" height="129px" width="35px"/><br><br>
 <img src="https://1.bp.blogspot.com/-x0zhqW8A7IQ/XY34sYHL8hI/AAAAAAAADDE/4S5E4cMfsTsXlYZxbqK4Svx_puYSXlzrgCLcBGAsYHQ/s1600/diwali_lamp2.png" height="129px" width="35px"/><br><br>
 <img src="https://1.bp.blogspot.com/-mQiQ9cDDv9c/XY34JMBUrCI/AAAAAAAADC8/kHUl1VtqRgo1s-R62R7f3FmWeaTUubr-QCLcBGAsYHQ/s1600/diwali_lamp.png" height="129px" width="35px"/><br><br>
+<img src="https://1.bp.blogspot.com/-eDrsODUYeSc/XZjSX4ND27I/AAAAAAAAA10/JmehyAYZzHY_bwgcPqVn_qpNt8HJHP2fgCLcBGAsYHQ/s1600/a%2Bhindiuser.png" height="129px" width="35px"/><br><br>
 <img src="https://1.bp.blogspot.com/-x0zhqW8A7IQ/XY34sYHL8hI/AAAAAAAADDE/4S5E4cMfsTsXlYZxbqK4Svx_puYSXlzrgCLcBGAsYHQ/s1600/diwali_lamp2.png" height="129px" width="35px"/><br><br>
 <img src="https://1.bp.blogspot.com/-mQiQ9cDDv9c/XY34JMBUrCI/AAAAAAAADC8/kHUl1VtqRgo1s-R62R7f3FmWeaTUubr-QCLcBGAsYHQ/s1600/diwali_lamp.png" height="129px" width="35px"/><br><br>
+<img src="https://1.bp.blogspot.com/-eDrsODUYeSc/XZjSX4ND27I/AAAAAAAAA10/JmehyAYZzHY_bwgcPqVn_qpNt8HJHP2fgCLcBGAsYHQ/s1600/a%2Bhindiuser.png" height="129px" width="35px"/><br><br>
 <img src="https://1.bp.blogspot.com/-x0zhqW8A7IQ/XY34sYHL8hI/AAAAAAAADDE/4S5E4cMfsTsXlYZxbqK4Svx_puYSXlzrgCLcBGAsYHQ/s1600/diwali_lamp2.png" height="129px" width="35px"/><br><br>
 <img src="https://1.bp.blogspot.com/-mQiQ9cDDv9c/XY34JMBUrCI/AAAAAAAADC8/kHUl1VtqRgo1s-R62R7f3FmWeaTUubr-QCLcBGAsYHQ/s1600/diwali_lamp.png" height="129px" width="35px"/><br><br>
+<img src="https://1.bp.blogspot.com/-eDrsODUYeSc/XZjSX4ND27I/AAAAAAAAA10/JmehyAYZzHY_bwgcPqVn_qpNt8HJHP2fgCLcBGAsYHQ/s1600/a%2Bhindiuser.png" height="129px" width="35px"/><br><br>
 <img src="https://1.bp.blogspot.com/-x0zhqW8A7IQ/XY34sYHL8hI/AAAAAAAADDE/4S5E4cMfsTsXlYZxbqK4Svx_puYSXlzrgCLcBGAsYHQ/s1600/diwali_lamp2.png" height="129px" width="35px"/><br><br>
 <img src="https://1.bp.blogspot.com/-mQiQ9cDDv9c/XY34JMBUrCI/AAAAAAAADC8/kHUl1VtqRgo1s-R62R7f3FmWeaTUubr-QCLcBGAsYHQ/s1600/diwali_lamp.png" height="129px" width="35px"/><br><br>
+<img src="https://1.bp.blogspot.com/-eDrsODUYeSc/XZjSX4ND27I/AAAAAAAAA10/JmehyAYZzHY_bwgcPqVn_qpNt8HJHP2fgCLcBGAsYHQ/s1600/a%2Bhindiuser.png" height="129px" width="35px"/><br><br>
 <img src="https://1.bp.blogspot.com/-x0zhqW8A7IQ/XY34sYHL8hI/AAAAAAAADDE/4S5E4cMfsTsXlYZxbqK4Svx_puYSXlzrgCLcBGAsYHQ/s1600/diwali_lamp2.png" height="129px" width="35px"/><br><br>
 <img src="https://1.bp.blogspot.com/-mQiQ9cDDv9c/XY34JMBUrCI/AAAAAAAADC8/kHUl1VtqRgo1s-R62R7f3FmWeaTUubr-QCLcBGAsYHQ/s1600/diwali_lamp.png" height="129px" width="35px"/><br><br>
+<img src="https://1.bp.blogspot.com/-eDrsODUYeSc/XZjSX4ND27I/AAAAAAAAA10/JmehyAYZzHY_bwgcPqVn_qpNt8HJHP2fgCLcBGAsYHQ/s1600/a%2Bhindiuser.png" height="129px" width="35px"/><br><br>
 <img src="https://1.bp.blogspot.com/-x0zhqW8A7IQ/XY34sYHL8hI/AAAAAAAADDE/4S5E4cMfsTsXlYZxbqK4Svx_puYSXlzrgCLcBGAsYHQ/s1600/diwali_lamp2.png" height="129px" width="35px"/><br><br>
 <img src="https://1.bp.blogspot.com/-mQiQ9cDDv9c/XY34JMBUrCI/AAAAAAAADC8/kHUl1VtqRgo1s-R62R7f3FmWeaTUubr-QCLcBGAsYHQ/s1600/diwali_lamp.png" height="129px" width="35px"/><br><br>
+<img src="https://1.bp.blogspot.com/-eDrsODUYeSc/XZjSX4ND27I/AAAAAAAAA10/JmehyAYZzHY_bwgcPqVn_qpNt8HJHP2fgCLcBGAsYHQ/s1600/a%2Bhindiuser.png" height="129px" width="35px"/><br><br>
 <img src="https://1.bp.blogspot.com/-x0zhqW8A7IQ/XY34sYHL8hI/AAAAAAAADDE/4S5E4cMfsTsXlYZxbqK4Svx_puYSXlzrgCLcBGAsYHQ/s1600/diwali_lamp2.png" height="129px" width="35px"/><br><br>
 <img src="https://1.bp.blogspot.com/-mQiQ9cDDv9c/XY34JMBUrCI/AAAAAAAADC8/kHUl1VtqRgo1s-R62R7f3FmWeaTUubr-QCLcBGAsYHQ/s1600/diwali_lamp.png" height="129px" width="35px"/><br><br>
+<img src="https://1.bp.blogspot.com/-eDrsODUYeSc/XZjSX4ND27I/AAAAAAAAA10/JmehyAYZzHY_bwgcPqVn_qpNt8HJHP2fgCLcBGAsYHQ/s1600/a%2Bhindiuser.png" height="129px" width="35px"/><br><br>
 <img src="https://1.bp.blogspot.com/-x0zhqW8A7IQ/XY34sYHL8hI/AAAAAAAADDE/4S5E4cMfsTsXlYZxbqK4Svx_puYSXlzrgCLcBGAsYHQ/s1600/diwali_lamp2.png" height="129px" width="35px"/><br><br>
 <img src="https://1.bp.blogspot.com/-mQiQ9cDDv9c/XY34JMBUrCI/AAAAAAAADC8/kHUl1VtqRgo1s-R62R7f3FmWeaTUubr-QCLcBGAsYHQ/s1600/diwali_lamp.png" height="129px" width="35px"/><br><br>
+<img src="https://1.bp.blogspot.com/-eDrsODUYeSc/XZjSX4ND27I/AAAAAAAAA10/JmehyAYZzHY_bwgcPqVn_qpNt8HJHP2fgCLcBGAsYHQ/s1600/a%2Bhindiuser.png" height="129px" width="35px"/><br><br>
 <img src="https://1.bp.blogspot.com/-x0zhqW8A7IQ/XY34sYHL8hI/AAAAAAAADDE/4S5E4cMfsTsXlYZxbqK4Svx_puYSXlzrgCLcBGAsYHQ/s1600/diwali_lamp2.png" height="129px" width="35px"/><br><br>
 <img src="https://1.bp.blogspot.com/-mQiQ9cDDv9c/XY34JMBUrCI/AAAAAAAADC8/kHUl1VtqRgo1s-R62R7f3FmWeaTUubr-QCLcBGAsYHQ/s1600/diwali_lamp.png" height="129px" width="35px"/><br><br>
+<img src="https://1.bp.blogspot.com/-eDrsODUYeSc/XZjSX4ND27I/AAAAAAAAA10/JmehyAYZzHY_bwgcPqVn_qpNt8HJHP2fgCLcBGAsYHQ/s1600/a%2Bhindiuser.png" height="129px" width="35px"/><br><br>
 <img src="https://1.bp.blogspot.com/-x0zhqW8A7IQ/XY34sYHL8hI/AAAAAAAADDE/4S5E4cMfsTsXlYZxbqK4Svx_puYSXlzrgCLcBGAsYHQ/s1600/diwali_lamp2.png" height="129px" width="35px"/><br><br>
-<img src="https://1.bp.blogspot.com/-mQiQ9cDDv9c/XY34JMBUrCI/AAAAAAAADC8/kHUl1VtqRgo1s-R62R7f3FmWeaTUubr-QCLcBGAsYHQ/s1600/diwali_lamp.png" height="129px" width="35px"/><br><br>
-<img src="https://1.bp.blogspot.com/-x0zhqW8A7IQ/XY34sYHL8hI/AAAAAAAADDE/4S5E4cMfsTsXlYZxbqK4Svx_puYSXlzrgCLcBGAsYHQ/s1600/diwali_lamp2.png" height="129px" width="35px"/><br><br>
-<img src="https://1.bp.blogspot.com/-mQiQ9cDDv9c/XY34JMBUrCI/AAAAAAAADC8/kHUl1VtqRgo1s-R62R7f3FmWeaTUubr-QCLcBGAsYHQ/s1600/diwali_lamp.png" height="129px" width="35px"/><br><br>
-<img src="https://1.bp.blogspot.com/-x0zhqW8A7IQ/XY34sYHL8hI/AAAAAAAADDE/4S5E4cMfsTsXlYZxbqK4Svx_puYSXlzrgCLcBGAsYHQ/s1600/diwali_lamp2.png" height="129px" width="35px"/><br><br>
-<img src="https://1.bp.blogspot.com/-mQiQ9cDDv9c/XY34JMBUrCI/AAAAAAAADC8/kHUl1VtqRgo1s-R62R7f3FmWeaTUubr-QCLcBGAsYHQ/s1600/diwali_lamp.png" height="129px" width="35px"/><br><br>
-<img src="https://1.bp.blogspot.com/-x0zhqW8A7IQ/XY34sYHL8hI/AAAAAAAADDE/4S5E4cMfsTsXlYZxbqK4Svx_puYSXlzrgCLcBGAsYHQ/s1600/diwali_lamp2.png" height="129px" width="35px"/><br><br>
-<img src="https://1.bp.blogspot.com/-mQiQ9cDDv9c/XY34JMBUrCI/AAAAAAAADC8/kHUl1VtqRgo1s-R62R7f3FmWeaTUubr-QCLcBGAsYHQ/s1600/diwali_lamp.png" height="129px" width="35px"/><br><br>
-<img src="https://1.bp.blogspot.com/-x0zhqW8A7IQ/XY34sYHL8hI/AAAAAAAADDE/4S5E4cMfsTsXlYZxbqK4Svx_puYSXlzrgCLcBGAsYHQ/s1600/diwali_lamp2.png" height="129px" width="35px"/><br><br>
-<img src="https://1.bp.blogspot.com/-mQiQ9cDDv9c/XY34JMBUrCI/AAAAAAAADC8/kHUl1VtqRgo1s-R62R7f3FmWeaTUubr-QCLcBGAsYHQ/s1600/diwali_lamp.png" height="129px" width="35px"/><br><br>
-<img src="https://1.bp.blogspot.com/-x0zhqW8A7IQ/XY34sYHL8hI/AAAAAAAADDE/4S5E4cMfsTsXlYZxbqK4Svx_puYSXlzrgCLcBGAsYHQ/s1600/diwali_lamp2.png" height="129px" width="35px"/><br><br>
-<img src="https://1.bp.blogspot.com/-mQiQ9cDDv9c/XY34JMBUrCI/AAAAAAAADC8/kHUl1VtqRgo1s-R62R7f3FmWeaTUubr-QCLcBGAsYHQ/s1600/diwali_lamp.png" height="129px" width="35px"/><br><br>
-<img src="https://1.bp.blogspot.com/-x0zhqW8A7IQ/XY34sYHL8hI/AAAAAAAADDE/4S5E4cMfsTsXlYZxbqK4Svx_puYSXlzrgCLcBGAsYHQ/s1600/diwali_lamp2.png" height="129px" width="35px"/><br><br>
-<img src="https://1.bp.blogspot.com/-mQiQ9cDDv9c/XY34JMBUrCI/AAAAAAAADC8/kHUl1VtqRgo1s-R62R7f3FmWeaTUubr-QCLcBGAsYHQ/s1600/diwali_lamp.png" height="129px" width="35px"/><br><br>
-<img src="https://1.bp.blogspot.com/-x0zhqW8A7IQ/XY34sYHL8hI/AAAAAAAADDE/4S5E4cMfsTsXlYZxbqK4Svx_puYSXlzrgCLcBGAsYHQ/s1600/diwali_lamp2.png" height="129px" width="35px"/><br><br>
-<img src="https://1.bp.blogspot.com/-mQiQ9cDDv9c/XY34JMBUrCI/AAAAAAAADC8/kHUl1VtqRgo1s-R62R7f3FmWeaTUubr-QCLcBGAsYHQ/s1600/diwali_lamp.png" height="129px" width="35px"/><br><br>
-<img src="https://1.bp.blogspot.com/-x0zhqW8A7IQ/XY34sYHL8hI/AAAAAAAADDE/4S5E4cMfsTsXlYZxbqK4Svx_puYSXlzrgCLcBGAsYHQ/s1600/diwali_lamp2.png" height="129px" width="35px"/><br><br>
-
+	
 </marquee>
 
-<marquee class="technovedant2" behavior="scroll" direction="down" scrolldelay="5"><br>
+<marquee class="hindiuser2" behavior="scroll" direction="down" scrolldelay="5"><br>
 
 <img src="https://1.bp.blogspot.com/-mQiQ9cDDv9c/XY34JMBUrCI/AAAAAAAADC8/kHUl1VtqRgo1s-R62R7f3FmWeaTUubr-QCLcBGAsYHQ/s1600/diwali_lamp.png" height="129px" width="35px"/><br><br>
 <img src="https://1.bp.blogspot.com/-x0zhqW8A7IQ/XY34sYHL8hI/AAAAAAAADDE/4S5E4cMfsTsXlYZxbqK4Svx_puYSXlzrgCLcBGAsYHQ/s1600/diwali_lamp2.png" height="129px" width="35px"/><br><br>
@@ -547,31 +545,34 @@ max-width: 400px;
 </center> 
 
 
-  <div class="Technovedantncontainer">
+  <div class="hindiuserncontainer">
 
-    <div class="TechnoVedant-main-greeting">
+    <div class="hindiuser-main-greeting">
 
 <div style="background: url(https://2.bp.blogspot.com/-T_tXR3JA5mk/W5-lhCTz4jI/AAAAAAAACRc/nqUIwYh7dNc-llDLOKfY0837pxPaoqs7QCLcBGAs/s1600/Navratri%2Bfree%2Bfestival%2Bwishing%2Bwebsite%2Bscript%2Bfor%2Bblogger%2B2018%2Bpro%2Bscript%2Bdownload%2Band%2Bearn%2Bmoney%2Bstrip.png); background-color: white; color: white; font-weight: bold; padding-top: 0px; padding-bottom: 0px; font-size: 12;text-align:center; ">
-<font color="white"> <p id="TECHNOVEDANT"></p>
+<font color="white"> <p id="hindiuser"></p>
 </font></div>
 
-<div style="background: url(https://1.bp.blogspot.com/-36daBLvVMtM/XY4SALHEAJI/AAAAAAAADFI/VlE_FN6PHKUqUCKqi4ypAPERUNj3MHPUwCLcBGAsYHQ/s1600/glitter_bar.gif); background-color: black; color: white; font-weight: bold; padding-top: 6px; padding-bottom: 6px; font-size: large;text-align:center; ">
+<div style="background: url(https://1.bp.blogspot.com/-hwL0-oxL9Qo/XZjQtF9iZsI/AAAAAAAAA1o/9dgHj8XTn9wewVkhIOHlFTac2K40ExdswCLcBGAsYHQ/s1600/hindiuser%2BDiwali.gif); background-color: black; color: white; font-weight: bold; padding-top: 6px; padding-bottom: 6px; font-size: large;text-align:center; ">
 
-<h2 class="font-effect-neon" align=center" id="TECHNOVEDANT-show-name"></h2>
+<h2 class="font-effect-neon" align=center" id="hindiuser-show-name"></h2>
 </div>
 <div style="background: url(https://2.bp.blogspot.com/-T_tXR3JA5mk/W5-lhCTz4jI/AAAAAAAACRc/nqUIwYh7dNc-llDLOKfY0837pxPaoqs7QCLcBGAs/s1600/Navratri%2Bfree%2Bfestival%2Bwishing%2Bwebsite%2Bscript%2Bfor%2Bblogger%2B2018%2Bpro%2Bscript%2Bdownload%2Band%2Bearn%2Bmoney%2Bstrip.png); background-color: black; color: white; font-weight: bold; padding-top: 6px; padding-bottom: 6px; font-size: large;text-align:center; ">
 </font></div>
-        <div class="font-effect-neon"><p class="fromMessage" id="TECHNOVEDANT-fromMessage"></p></div>
+        <div class="font-effect-neon"><p class="fromMessage" id="hindiuser-fromMessage"></p></div>
         
 
 
 </center>
  <center><span style="color: #ffffff;">▁ ▂ ▄ ▅ शुभ दीपावली ▅ ▄ ▂ ▁</center><br>
 
-<center><img src="https://1.bp.blogspot.com/-WDMh6RVyuKk/XY4Gb9glEvI/AAAAAAAADD0/R8sCBZ7rNhwlDRgS_a4qwoQn79yFxjZ2gCLcBGAsYHQ/s320/Happy-Diwali-1.png" class="img-responsive" alt="TECHNOVEDANT" width="95%"></center><br>
+<center><img src="https://1.bp.blogspot.com/-OrJQ8qFKt4Q/X6lJD1C2CsI/AAAAAAAAAAc/WoelApj4HhcU0zcYSGc-5y3wRYtyFMQEwCPcBGAYYCw/s600/image.png" class="img-responsive" alt="hindiuser" width="95%"></center><br>
      <center>
     
-<font color="white">Ads Code</font>
+<font color="white"><!-- Bulletprofit - Ad Display Code -->
+<div id="adm-container-21618"></div><script data-cfasync="false" async type="text/javascript" src="//bulletprofitads.com/display/items.php?21618&6391&250&250&4&0&40"></script>
+<!-- Bulletprofit - Ad Display Code -->
+                     </font>
 
 
 </center>
@@ -581,7 +582,7 @@ max-width: 400px;
 <br>
      <div style="background-color: #FF0000; border-radius: 17px; border: 0px solid rgb(0, 0, 0); box-shadow: rgba(0, 0, 0, 0.2) 5px 5px 5px; color: white; font-family: arial, sans-serif; font-size: 18px; font-stretch: normal; font-style: normal; font-variant: normal; line-height: normal; margin: 0px auto; padding: 4px 5px 3px; width: 80%;">
 <marquee behavior="alternate"><b>
-सबसे पहले song को प्ले करें
+सबसे पहले song को Play करें
 </b></marquee>
 </div>
 <div style="background-color: #FFFF00; border-radius: 17px; border: 0px solid rgb(0, 0, 0); box-shadow: rgba(0, 0, 0, 0.2) 5px 5px 5px; color: black; font-family: arial, sans-serif; font-size: 18px; font-stretch: normal; font-style: normal; font-variant: normal; line-height: normal; margin: 0px auto; padding: 4px 5px 3px; width: 80%; scrollamount="5">
@@ -595,11 +596,14 @@ max-width: 400px;
   Your browser does not support the audio element.
 </audio>
 </br>
-<center><img src="https://1.bp.blogspot.com/-unwkE6mXjYU/XY4DfsqVZ0I/AAAAAAAADDc/qNpKrrfqLq83iQ5MEshElPLGtX99xXpKwCLcBGAsYHQ/s320/Happy-Diwali-Diya.gif" class="img-responsive" alt="TECHNOVEDANT" width="95%"></center>
+<center><img src="https://1.bp.blogspot.com/-MrS_QQhUCZM/XZjOaZK5fQI/AAAAAAAAA1E/3gyAAPoEn9EkFqAgsTGE-3Ss0KGDJXn4ACLcBGAsYHQ/s1600/hindiuser%2BDiwali%2B2.gif" class="img-responsive" alt="hindiuser" width="95%"></center>
 </br>
 <center>
 
-<font color="white">Ads Code</font>
+<font color="white"><!-- Bulletprofit - Ad Display Code -->
+<div id="adm-container-21617"></div><script data-cfasync="false" async type="text/javascript" src="//bulletprofitads.com/display/items.php?21617&6391&300&250&4&0&39"></script>
+<!-- Bulletprofit - Ad Display Code -->
+                     </font>
                    
 </center>
 </br>
@@ -611,12 +615,13 @@ max-width: 400px;
 </h3>
 </center>
 </br>
-<center><img src="https://1.bp.blogspot.com/-ECBMegu4nRM/XY4ELk0zbGI/AAAAAAAADDk/T_nKTi1HrF8Wfbb45LqP2basBh6FBZUFACLcBGAsYHQ/s320/Happy-Diwali.png" class="img-responsive" alt="TECHNOVEDANT" width="95%"></center>
+<center><img src="https://1.bp.blogspot.com/-ECBMegu4nRM/XY4ELk0zbGI/AAAAAAAADDk/T_nKTi1HrF8Wfbb45LqP2basBh6FBZUFACLcBGAsYHQ/s320/Happy-Diwali.png" class="img-responsive" alt="hindiuser" width="95%"></center>
 </br>
 <center>
 
-Ads Code
-
+<!-- Bulletprofit - Ad Display Code -->
+<div id="adm-container-21626"></div><script data-cfasync="false" async type="text/javascript" src="//bulletprofitads.com/display/items.php?21626&6391&250&250&4&0&40"></script>
+<!-- Bulletprofit - Ad Display Code -->              
 </center>
 </br>
 <center>
@@ -630,19 +635,22 @@ Ads Code
 </center>
 </br>
 
-<div class="TECHNOVEDANT-slideshow-container">
-<div class="TECHNOVEDANTSlides fade">
-  <img src="https://1.bp.blogspot.com/-CBCjkajWHNQ/XY4JQ24NDHI/AAAAAAAADEI/kJ5wE6E334k528mnzCg1Rn4HEmpyeO9xwCLcBGAsYHQ/s1600/Happy-Diwali-slideshow3.jpeg" style="width:280px;height:280px;-webkit-border-radius: 0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px0px;border-radius: 0px 0px 0px 0px;border:1px solid #ff6600;background:rgba(32,43,27,0.4);-webkit-box-shadow: #B3B3B3 3px 4px 3px;-moz-box-shadow: #B3B3B3 3px 3px 3px; box-shadow: #B3B3B3 3px 3px 3px;"/>
+<div class="hindiuser-slideshow-container">
+<div class="hindiuserSlides fade">
+  <img src="https://1.bp.blogspot.com/-x5qaZZjH4j0/X6rCh7aYvDI/AAAAAAAAABA/UJZGEULM-AsdmaoIyw8_OWDj7DvOlpiIQCLcBGAsYHQ/s320/diwali-2890605_640.webp" style="width:280px;height:280px;-webkit-border-radius: 0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px0px;border-radius: 0px 0px 0px 0px;border:1px solid #ff6600;background:rgba(32,43,27,0.4);-webkit-box-shadow: #B3B3B3 3px 4px 3px;-moz-box-shadow: #B3B3B3 3px 3px 3px; box-shadow: #B3B3B3 3px 3px 3px;"/>
   
 </div>
 
-<div class="TECHNOVEDANTSlides fade">
-  <img src="https://1.bp.blogspot.com/-20dV9XuZayI/XY4JQrAiIJI/AAAAAAAADEA/TL-Uixk8QiQILjoEvpWG8QTYtUBOunTgwCLcBGAsYHQ/s1600/Happy-Diwali-slideshow1.jpeg" style="width:280px;height:280px;-webkit-border-radius: 0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px0px;border-radius: 0px 0px 0px 0px;border:1px solid #ce082c;background:rgba(32,43,27,0.4);-webkit-box-shadow: #B3B3B3 3px 4px 3px;-moz-box-shadow: #B3B3B3 3px 3px 3px; box-shadow: #B3B3B3 3px 3px 3px;"/>
-  
+<div class="hindiuserSlides fade">
+  <img src="https://1.bp.blogspot.com/-zV94HSfvKaw/X6rD0KDR_SI/AAAAAAAAABU/gBytCXIf3mUW9sE3lrk3wU_ZAud50DXSACLcBGAsYHQ/s320/madhukar-kumar-mX16vPPHzXI-unsplash%2B%25281%2529.webp" style="width:280px;height:280px;-webkit-border-radius: 0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px0px;border-radius: 0px 0px 0px 0px;border:1px solid #063dc9;background:rgba(32,43,27,0.4);-webkit-box-shadow: #B3B3B3 3px 4px 3px;-moz-box-shadow: #B3B3B3 3px 3px 3px; box-shadow: #B3B3B3 3px 3px 3px;"/>
 </div>
 
-<div class="TECHNOVEDANTSlides fade">
-  <img src="https://1.bp.blogspot.com/-eLva1XiHLNk/XY4JQxdAtmI/AAAAAAAADEE/bXTmDHJFaMwbyabS_08aFop4rNzMm23RACLcBGAsYHQ/s1600/Happy-Diwali-slideshow2.jpeg" style="width:280px;height:280px;-webkit-border-radius: 0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px0px;border-radius: 0px 0px 0px 0px;border:1px solid #063dc9;background:rgba(32,43,27,0.4);-webkit-box-shadow: #B3B3B3 3px 4px 3px;-moz-box-shadow: #B3B3B3 3px 3px 3px; box-shadow: #B3B3B3 3px 3px 3px;"/>
+<div class="hindiuserSlides fade">
+  <img src="https://1.bp.blogspot.com/-kb9MNESRwqk/X6rBVgMg_vI/AAAAAAAAAA0/1eKA1MNPc7cZSiMfo-pNpqhKYhbBmkIsgCLcBGAsYHQ/s320/hand-4544076_640.webp" style="width:280px;height:280px;-webkit-border-radius: 0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px0px;border-radius: 0px 0px 0px 0px;border:1px solid #063dc9;background:rgba(32,43,27,0.4);-webkit-box-shadow: #B3B3B3 3px 4px 3px;-moz-box-shadow: #B3B3B3 3px 3px 3px; box-shadow: #B3B3B3 3px 3px 3px;"/>
+</div>
+
+<div class="hindiuserSlides fade">
+  <img src="https://1.bp.blogspot.com/-HRJlEvhRpIc/X6rC7nDX9ZI/AAAAAAAAABI/NaP_yVPKdv4PEPldSGObxySyYn5lRDKlgCLcBGAsYHQ/s320/diwali-3829344_640.webp" style="width:280px;height:280px;-webkit-border-radius: 0px 0px 0px 0px;-moz-border-radius: 0px 0px 0px0px;border-radius: 0px 0px 0px 0px;border:1px solid #063dc9;background:rgba(32,43,27,0.4);-webkit-box-shadow: #B3B3B3 3px 4px 3px;-moz-box-shadow: #B3B3B3 3px 3px 3px; box-shadow: #B3B3B3 3px 3px 3px;"/>
   
   
 </div>
@@ -650,19 +658,19 @@ Ads Code
 <br>
 <center><iframe width="95%" height="315" src="https://www.youtube.com/embed/4EknwuetnOs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <br>
-<center><img src="https://3.bp.blogspot.com/--VrLDvTMfE0/W2xAmnbAbSI/AAAAAAAABo0/g6rPQo521MASQKKAnw2LLed-OR1OlgF9gCLcBGAs/s1600/c.gif" class="img-responsive" alt="TECHNOVEDANT" width="30%"></center>
+<center><img src="https://3.bp.blogspot.com/--VrLDvTMfE0/W2xAmnbAbSI/AAAAAAAABo0/g6rPQo521MASQKKAnw2LLed-OR1OlgF9gCLcBGAs/s1600/c.gif" class="img-responsive" alt="hindiuser" width="30%"></center>
 <br><br>
 
 <div style="text-align:center">
-  <span class="TECHNOVEDANTdot"></span> 
-  <span class="TECHNOVEDANTdot"></span> 
-  <span class="TECHNOVEDANTdot"></span> 
-  <span class="TECHNOVEDANTdot"></span>
-  <span class="TECHNOVEDANTdot"></span>
-  <span class="TECHNOVEDANTdot"></span>
-  <span class="TECHNOVEDANTdot"></span>
-  <span class="TECHNOVEDANTdot"></span>
-  <span class="TECHNOVEDANTdot"></span>
+  <span class="hindiuserdot"></span> 
+  <span class="hindiuserdot"></span> 
+  <span class="hindiuserdot"></span> 
+  <span class="hindiuserdot"></span>
+  <span class="hindiuserdot"></span>
+  <span class="hindiuserdot"></span>
+  <span class="hindiuserdot"></span>
+  <span class="hindiuserdot"></span>
+  <span class="hindiuserdot"></span>
 </div>
 
 
@@ -674,8 +682,8 @@ showSlides();
 
 function showSlides() {
     var i;
-    var slides = document.getElementsByClassName("TECHNOVEDANTSlides");
-    var dots = document.getElementsByClassName("TECHNOVEDANTdot");
+    var slides = document.getElementsByClassName("hindiuserSlides");
+    var dots = document.getElementsByClassName("hindiuserdot");
     for (i = 0; i < slides.length; i++) {
        slides[i].style.display = "none";  
     }
@@ -724,8 +732,8 @@ function showSlides() {
       if (name.length !== 0) {
         name = name.replace(/-/g, " ");
         console.log("name is there", name);
-        document.querySelector("#TECHNOVEDANT-show-name").innerHTML = name;
-        document.querySelector("#TECHNOVEDANT-fromMessage").innerHTML= "Wishing You"
+        document.querySelector("#hindiuser-show-name").innerHTML = name;
+        document.querySelector("#hindiuser-fromMessage").innerHTML= "Wishing You"
       } else {
 
       }
@@ -754,8 +762,8 @@ function showSlides() {
       if(sname.trim()!=""){
         document.querySelector("#formBox").style.display = "none";
         document.querySelector(".footerbtn").style.display = "block";
-        document.querySelector("#TECHNOVEDANT-show-name").innerHTML = sname;
-        document.querySelector("#TECHNOVEDANT-fromMessage").innerHTML= "Click on the WhatsApp button to share with your friends";
+        document.querySelector("#hindiuser-show-name").innerHTML = sname;
+        document.querySelector("#hindiuser-fromMessage").innerHTML= "Click on the WhatsApp button to share with your friends";
         window.scrollTo(0,0);
       }else {
         alert ("Please Type Your Name First");
@@ -833,14 +841,14 @@ var x = setInterval(function() {
   var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
   var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
-  // Display the result in the element with id="TECHNOVEDANT"
-  document.getElementById("TECHNOVEDANT").innerHTML = days + "<i> Days,</i> " + hours + " <i>Hrs,</i> "
+  // Display the result in the element with id="hindiuser"
+  document.getElementById("hindiuser").innerHTML = days + "<i> Days,</i> " + hours + " <i>Hrs,</i> "
   + minutes + "<i> Min,</i> " + seconds + "<i> Sec</i> ";
 
   // If the count down is finished, write some text 
   if (distance < 0) {
     clearInterval(x);
-    document.getElementById("TECHNOVEDANT").innerHTML = ".";
+    document.getElementById("hindiuser").innerHTML = ".";
   }
 }, 1000);
 </script>        
@@ -854,4 +862,7 @@ var x = setInterval(function() {
   // ga('require', 'linker');
   // ga('send', 'pageview');
 </script>
+   <!-- Bulletprofit - Ad Display Code -->
+<div id="adm-container-22071"></div><script data-cfasync="false" async type="text/javascript" src="//bulletprofitads.com/display/items.php?22071&6391&250&250&4&0&40"></script>
+<!-- Bulletprofit - Ad Display Code -->
 </html>
